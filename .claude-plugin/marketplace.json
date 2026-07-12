@@ -1,0 +1,30 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "decorrelated-research",
+  "owner": {
+    "name": "matteolopreti"
+  },
+  "metadata": {
+    "description": "Multi-lineage blind research panel for Claude Code — 3+ model lineages answer a consequential question independently, the seat seals its own answer first, and consolidation leads with where they disagree."
+  },
+  "plugins": [
+    {
+      "name": "decorrelated-research",
+      "source": "./",
+      "description": "For questions with no cheap oracle: dispatch a blind prompt (stripped of your own hypotheses) to 3+ seats spanning 2+ model lineages, require 2+ returns, consolidate divergence-first with the house labels (CORROBORATED / MAJORITY / DIVERGENT / SINGLE / OWNER-FORK), audit citations, and compare against your own pre-sealed answer. Gathers material to ground a decision; never signs it.",
+      "author": {
+        "name": "Matteo Lopreti",
+        "url": "https://github.com/matteolopreti"
+      },
+      "category": "development",
+      "keywords": [
+        "research",
+        "decorrelation",
+        "multi-model",
+        "second-opinion",
+        "blind-panel",
+        "independent-review"
+      ]
+    }
+  ]
+}

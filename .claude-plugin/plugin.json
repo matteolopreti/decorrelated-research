@@ -1,0 +1,24 @@
+{
+  "name": "decorrelated-research",
+  "version": "1.0.0",
+  "description": "Ground a consequential question in 3+ independent model lineages, blind, and consolidate divergence-first — the seat writes its own answer BEFORE reading the panel's. Agreement across lineages is corroboration, never proof; divergence is the signal. For judgment-class questions with no cheap oracle.",
+  "author": {
+    "name": "Matteo Lopreti",
+    "url": "https://github.com/matteolopreti"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/matteolopreti/decorrelated-research",
+  "skills": "./skills/",
+  "keywords": [
+    "research",
+    "decorrelation",
+    "multi-model",
+    "second-opinion",
+    "independent-review",
+    "blind-panel",
+    "commit-before-reveal",
+    "divergence",
+    "epistemic-hygiene",
+    "judgment"
+  ]
+}
