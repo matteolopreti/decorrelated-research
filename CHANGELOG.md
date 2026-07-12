@@ -5,3 +5,4 @@
   a partial read that an external model refuted by reading the file to the end. The skill encodes what
   that session proved: seal your answer first, strip your priors from the blind prompt, require 2+
   lineages, lead with divergence, audit citations, and treat a manual seat as a full seat.
+- **v1.1.0** — genericized for outside users: the worked example and steps no longer reference private project paths or house-internal skill names; owner/assistant voice replaces operator/seat jargon; standard two-field frontmatter; README gains the five-minute start and the why-blind-why-sealed section. Docs-only — the protocol is unchanged.
